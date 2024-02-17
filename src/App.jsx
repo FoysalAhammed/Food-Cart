@@ -4,7 +4,7 @@ import Header from "./component/Header"
 import RecomendedFood from "./component/RecomendedFood"
 import Aboutus from "./component/Aboutus"
 import NewFood from "./component/NewFood"
-import AboutChiefs from "./component/ABoutChiefs"
+import AboutChiefs from "./component/AboutChiefs"
 import SpecialFood from "./component/SpecialFood"
 import Footer from "./component/Footer"
 
