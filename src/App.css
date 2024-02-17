@@ -1,0 +1,13 @@
+body{
+  font-family: "Sofia Sans", sans-serif;
+  background:linear-gradient(180deg,#f5474737,#f5474800);;
+  background-size: cover !important;
+
+}
+
+.footer-title {
+  margin-bottom: .5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  opacity: .6
+}
